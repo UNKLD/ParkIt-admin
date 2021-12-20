@@ -1,0 +1,12 @@
+.tariff form {
+  width: 250px;
+}
+
+form input::placeholder,
+textarea::placeholder {
+  color: slategrey;
+}
+
+.container2 {
+  margin-left: 21.5%;
+}

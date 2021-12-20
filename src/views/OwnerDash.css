@@ -1,0 +1,67 @@
+.collection .with-header {
+  width: 100%;
+  margin-left: 20%;
+}
+.users {
+  width: 60%;
+}
+.users h4 {
+  text-decoration: underline;
+}
+.parkingLots_contain {
+  margin-left: 20%;
+  margin-top: 0px;
+  width: 45%;
+}
+
+.parkingLots_contain ul li {
+  font-size: 20px;
+}
+
+.vl1 {
+  border-left: 4px solid rgb(226, 231, 226);
+  height: 100%;
+  position: absolute;
+  left: 70%;
+  margin-left: -50px;
+  top: 155px;
+}
+
+.register {
+  height: 50%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.register__container {
+  display: flexbox;
+  flex-direction: column;
+  text-align: center;
+  background-color: #eee;
+  padding: 100px;
+}
+.register__textBox {
+  padding: 10px;
+  font-size: 18px;
+  margin-bottom: 10px;
+  width: 100%;
+}
+::placeholder {
+  color: rgb(110, 107, 107);
+}
+.register__btn {
+  padding: 20px;
+  font-size: 20px;
+  margin-bottom: 10px;
+  border: none;
+  color: white;
+  background-color: black;
+  border-radius: 10px;
+}
+.register__google {
+  background-color: #4285f4;
+}
+.register div {
+  margin-top: 7px;
+}

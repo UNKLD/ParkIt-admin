@@ -1,0 +1,36 @@
+nav ul {
+  width: 100%;
+}
+
+li a {
+  font-size: 18px;
+}
+
+ul button {
+  margin-left: 50%;
+}
+
+ul li {
+  margin-left: 3%;
+}
+#sidenav {
+  position: absolute;
+  height: 100%;
+}
+.sidenav li a {
+  color: #2196f3;
+}
+.sidenav li a:hover {
+  background-color: #88c2f1;
+}
+.brand {
+  margin-top: -2%;
+  background-color: #2196f3;
+}
+.brand h3 {
+  color: #eee;
+  text-align: left;
+  text-decoration: wavy;
+  padding-left: 3%;
+  padding-top: 1.5%;
+}

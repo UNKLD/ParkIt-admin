@@ -1,0 +1,37 @@
+.login {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.login__container {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: #fffbfb;
+  padding: 50px;
+}
+.login__textBox {
+  color: black;
+  width: 100%;
+  padding: 10px;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.login__textBox::placeholder {
+  color: rgb(116, 112, 112);
+}
+.login__btn {
+  padding: 10px;
+  font-size: 18px;
+  margin-bottom: 10px;
+  border: none;
+  color: white;
+  background-color: black;
+}
+
+.login div {
+  margin-top: 70px;
+}
